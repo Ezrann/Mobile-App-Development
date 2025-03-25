@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab4</string>
+<!--    Enhancing the Expense Tracker App with Fragments and RecyclerView-->
+
+    <string-array name="categories_array">
+        <item>Ice Latte</item>
+        <item>Orange Juice</item>
+        <item>Americano</item>
+        <item>Hot Latte</item>
+        <item>Other</item>
+    </string-array>
+</resources>

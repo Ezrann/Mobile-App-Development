@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/icon_home"
+        android:icon="@drawable/image_removebg_preview"
+        android:title=""
+        />
+    <item
+        android:id="@+id/icon_add"
+        android:icon="@drawable/add_icon_removebg_preview"
+        android:title=""
+        />
+    <item
+        android:id="@+id/icon_detail_expense"
+        android:icon="@drawable/expense_icon_removebg_preview"
+        android:title=""
+        />
+
+</menu>
